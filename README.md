@@ -1,7 +1,7 @@
 # Project_face_emotion_detection
 CNN, Resnet-50
 
-my used to wish to develop the face emotion detector
+I used to wish to develop the face emotion detector
 and i was able to run the program on my laptop
 i've collected and data from neighbors under their permission
 and multiplied 5times and divided into 6 classed

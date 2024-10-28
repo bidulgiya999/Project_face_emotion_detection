@@ -1,11 +1,9 @@
 # Project_face_emotion_detection
 CNN, Resnet-50
 
-I used to wish to develop the face emotion detector
-and i was able to run the program on my laptop
-i've collected and data from neighbors under their permission
-and multiplied 5times and divided into 6 classed
-so after my work my program is able to read the face emoetion and abstract the Time-series data and graph
+I previously wanted to develop a face emotion detector and successfully ran the program on my laptop. I collected data from neighbors (with their permission), multiplied it fivefold, and categorized it into six classes. As a result, my program can now read facial emotions, extract time-series data, and generate a graph."
+
+Let me know if you'd like any more adjustments!! :3
 
 ![얼굴인식_메인화면](https://github.com/user-attachments/assets/30678dc1-a05a-4e44-90b6-adb6bcbe4e61)
 
